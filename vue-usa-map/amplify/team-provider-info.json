@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vueusamap-dev-190542-authRole",
+            "UnauthRoleArn": "arn:aws:iam::156533490125:role/amplify-vueusamap-dev-190542-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::156533490125:role/amplify-vueusamap-dev-190542-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-vueusamap-dev-190542-deployment",
+            "UnauthRoleName": "amplify-vueusamap-dev-190542-unauthRole",
+            "StackName": "amplify-vueusamap-dev-190542",
+            "StackId": "arn:aws:cloudformation:us-east-1:156533490125:stack/amplify-vueusamap-dev-190542/c6848c90-1612-11eb-b4cc-0a292b885373",
+            "AmplifyAppId": "d2fceejpsfhdxw"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2fceejpsfhdxw",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
