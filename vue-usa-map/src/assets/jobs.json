@@ -1,0 +1,394 @@
+{
+    "AL": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 2.0,
+        "trade": 0.0,
+        "domestic service": 0.0,
+        "professional service": 0.0
+    },
+    "AZ": {
+        "agriculture": 20.0,
+        "manufacturing": 10.0,
+        "mining": 10.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "AR": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 0.0,
+        "trade": 0.0,
+        "domestic service": 0.0,
+        "professional service": 0.0
+    },
+    "CA": {
+        "agriculture": 20.0,
+        "manufacturing": 20.0,
+        "mining": 2.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 5.0
+    },
+    "CO": {
+        "agriculture": 20.0,
+        "manufacturing": 10.0,
+        "mining": 10.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 5.0
+    },
+    "CT": {
+        "agriculture": 0.0,
+        "manufacturing": 40.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "DE": {
+        "agriculture": 20.0,
+        "manufacturing": 40.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "DC": {
+        "agriculture": 0.0,
+        "manufacturing": 40.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "FL": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "GA": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 0.0,
+        "trade": 0.0,
+        "domestic service": 15.0,
+        "professional service": 0.0
+    },
+    "ID": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 10.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "IL": {
+        "agriculture": 20.0,
+        "manufacturing": 20.0,
+        "mining": 2.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 5.0
+    },
+    "IN": {
+        "agriculture": 35.0,
+        "manufacturing": 20.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "IA": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 0.0,
+        "professional service": 5.0
+    },
+    "KS": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 2.0,
+        "trade": 10.0,
+        "domestic service": 0.0,
+        "professional service": 5.0
+    },
+    "KY": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "LA": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 0.0
+    },
+    "ME": {
+        "agriculture": 20.0,
+        "manufacturing": 20.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 5.0
+    },
+    "MD": {
+        "agriculture": 20.0,
+        "manufacturing": 20.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "MA": {
+        "agriculture": 0.0,
+        "manufacturing": 40.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 5.0
+    },
+    "MI": {
+        "agriculture": 20.0,
+        "manufacturing": 20.0,
+        "mining": 2.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "MN": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "MS": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 0.0,
+        "trade": 0.0,
+        "domestic service": 0.0,
+        "professional service": 0.0
+    },
+    "MO": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 2.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "MT": {
+        "agriculture": 20.0,
+        "manufacturing": 10.0,
+        "mining": 10.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "NE": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 0.0,
+        "professional service": 5.0
+    },
+    "NV": {
+        "agriculture": 20.0,
+        "manufacturing": 10.0,
+        "mining": 10.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 5.0
+    },
+    "NH": {
+        "agriculture": 20.0,
+        "manufacturing": 40.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "NJ": {
+        "agriculture": 0.0,
+        "manufacturing": 40.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "NM": {
+        "agriculture": 35.0,
+        "manufacturing": 0.0,
+        "mining": 5.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "NY": {
+        "agriculture": 0.0,
+        "manufacturing": 20.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 5.0
+    },
+    "NC": {
+        "agriculture": 60.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 0.0,
+        "domestic service": 15.0,
+        "professional service": 0.0
+    },
+    "ND": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 0.0,
+        "professional service": 3.0
+    },
+    "OH": {
+        "agriculture": 20.0,
+        "manufacturing": 20.0,
+        "mining": 2.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 5.0
+    },
+    "OK": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 2.0,
+        "trade": 0.0,
+        "domestic service": 0.0,
+        "professional service": 3.0
+    },
+    "OR": {
+        "agriculture": 20.0,
+        "manufacturing": 10.0,
+        "mining": 2.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 5.0
+    },
+    "PA": {
+        "agriculture": 0.0,
+        "manufacturing": 20.0,
+        "mining": 5.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "RI": {
+        "agriculture": 0.0,
+        "manufacturing": 40.0,
+        "mining": 0.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "SC": {
+        "agriculture": 60.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 0.0,
+        "domestic service": 0.0,
+        "professional service": 0.0
+    },
+    "SD": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 0.0,
+        "professional service": 5.0
+    },
+    "TN": {
+        "agriculture": 35.0,
+        "manufacturing": 0.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "TX": {
+        "agriculture": 60.0,
+        "manufacturing": 0.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "UT": {
+        "agriculture": 20.0,
+        "manufacturing": 10.0,
+        "mining": 5.0,
+        "trade": 16.0,
+        "domestic service": 15.0,
+        "professional service": 5.0
+    },
+    "VT": {
+        "agriculture": 35.0,
+        "manufacturing": 20.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 5.0
+    },
+    "VA": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "WA": {
+        "agriculture": 20.0,
+        "manufacturing": 20.0,
+        "mining": 5.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 5.0
+    },
+    "WV": {
+        "agriculture": 35.0,
+        "manufacturing": 10.0,
+        "mining": 5.0,
+        "trade": 10.0,
+        "domestic service": 15.0,
+        "professional service": 3.0
+    },
+    "WI": {
+        "agriculture": 35.0,
+        "manufacturing": 20.0,
+        "mining": 0.0,
+        "trade": 10.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    },
+    "WY": {
+        "agriculture": 20.0,
+        "manufacturing": 10.0,
+        "mining": 5.0,
+        "trade": 16.0,
+        "domestic service": 20.0,
+        "professional service": 3.0
+    }
+}

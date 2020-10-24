@@ -1,0 +1,17 @@
+{
+    "endOfLine": "lf",
+    "printWidth": 100,
+    "trailingComma": "es5",
+    "proseWrap": "never",
+    "tabWidth": 4,
+    "arrowParens": "always",
+    "overrides": [{
+        "files": "*.md",
+        "options": {
+            "printWidth": 70,
+            "useTabs": false,
+            "semi": false,
+            "trailingComma": "none"
+        }
+    }]
+}
